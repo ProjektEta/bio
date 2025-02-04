@@ -6,7 +6,7 @@ const BADGES = [
 ];
 
 const USER_ID = "1053570332339998801"; 
-const BACKGROUND_IMAGE = "assets/images/background.gif";
+const BACKGROUND_IMAGE = "";
 const STATUS = {
   dnd: {
     name: "Do not disturb",
